@@ -9,7 +9,7 @@ public class Invoke {
 	@Test
 	public void invokeApplication() {
 
-		System.setProperty("webdriver.driver.chromedriver", "./Drivers/chromedriver.exe");
+		System.setProperty("webdriver.driver.chromedriver", "./Drivers//chromedriver.exe");
 
 		WebDriver driver = new ChromeDriver();
 
