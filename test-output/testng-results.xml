@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Cucumber Automation Test Suite" duration-ms="10175" started-at="2019-09-22T04:46:54Z" finished-at="2019-09-22T04:47:04Z">
+    <groups>
+    </groups>
+    <test name="Naveen" duration-ms="10175" started-at="2019-09-22T04:46:54Z" finished-at="2019-09-22T04:47:04Z">
+      <class name="com.devops.Automation.Invoke">
+        <test-method status="PASS" signature="invokeApplication()[pri:0, instance:com.devops.Automation.Invoke@13c27452]" name="invokeApplication" duration-ms="10152" started-at="2019-09-22T04:46:54Z" finished-at="2019-09-22T04:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeApplication -->
+      </class> <!-- com.devops.Automation.Invoke -->
+    </test> <!-- Naveen -->
+  </suite> <!-- Cucumber Automation Test Suite -->
+</testng-results>
